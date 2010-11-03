@@ -1,0 +1,13 @@
+#Paged Gallery, v0.1
+
+#Licence info
+
+ 
+
+##Disclamer
+
+thibault milan or empowebo are in no way responsible for any damage, software vulnerability, data issues or technical problems arising from this software
+
+Inspired by yCyclista from [yonatan reinberg][1]
+
+[1]:http://social-ink.net
